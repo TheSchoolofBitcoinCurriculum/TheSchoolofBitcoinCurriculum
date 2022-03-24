@@ -1,4 +1,4 @@
-### Hi there 👋
+This is an open project to build a dynamic consensus driven curriculum specifically for (de)financial literacy that has the ability plug into any institution to support learners on problem and project based learning journeys.
 
 <!--
 **TheSchoolofBitcoinCurriculum/TheSchoolofBitcoinCurriculum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
