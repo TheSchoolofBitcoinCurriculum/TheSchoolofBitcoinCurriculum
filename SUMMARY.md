@@ -8,6 +8,7 @@
 * [The Do's and Dont's for Safety at TSOBC](bit-entry-program/the-dos-and-donts-for-safety-at-tsobc.md)
 * [Decision Making and Healthy Conversations about Coins](bit-entry-program/decision-making-and-healthy-conversations-about-coins.md)
 * [Practical](bit-entry-program/practical.md)
+* [Lightning LURL setup](bit-entry-program/lightning-lurl-setup.md)
 
 ## 🥉 Bit Bronze Pathway
 
