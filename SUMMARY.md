@@ -9,6 +9,7 @@
 * [Decision Making and Healthy Conversations about Coins](bit-entry-program/decision-making-and-healthy-conversations-about-coins.md)
 * [Practical](bit-entry-program/practical.md)
 * [Lightning LURL setup](bit-entry-program/lightning-lurl-setup.md)
+* [Hiro Wallet setup](bit-entry-program/hiro-wallet-setup.md)
 
 ## 🥉 Bit Bronze Pathway
 
